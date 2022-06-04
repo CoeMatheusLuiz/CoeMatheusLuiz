@@ -10,6 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoeMatheusLuiz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
+
 - 📚 <i>Estou estudando:</i>
   
 <div style="display: inline_block"><br>
@@ -27,5 +28,7 @@
     <a href="https://www.linkedin.com/in/matheus-luiz99/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
   <br>
-  ##
-![dormrm](https://user-images.githubusercontent.com/55817291/172018272-cfd74e4f-cd73-446c-89af-1dc3f6bf1d6a.gif)
+ 
+<p align="center"><i><strong> ✨✨ Valeu a visita, volte sempre que quiser ✨✨</strong></i></p> <br>
+
+![dormrm](https://user-images.githubusercontent.com/55817291/172018305-abd0c03f-6e3c-4bec-80f7-e2f739be5f69.gif)
