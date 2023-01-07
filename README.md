@@ -1,4 +1,4 @@
-### "Olá, tudo bão com ocê?" 👋
+### "Olá, tudo bem com Você?" 👋
 #### - Me chamo Matheus, seja bem vindo ao meu GITHUB!
 
 - 🌱 <i>Atualmente estou</i> <strong>estudando</strong> <i>para me tornar um Front-End DEV!</i>
