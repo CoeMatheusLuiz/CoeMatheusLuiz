@@ -4,7 +4,7 @@
 - 🌱 <i>Atualmente estou</i> <strong>estudando</strong> <i>para me tornar um Front-End DEV!</i>
 - 😄 <strong>Pronouns:</strong> <i>Ele/Dele</i>
 - 📚 <i>Estou estudando:</i>
-<div margin-left = 15px;>
+<div margin-left = 55px;>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
