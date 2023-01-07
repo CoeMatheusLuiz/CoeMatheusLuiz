@@ -1,7 +1,7 @@
 ### "Olá, tudo bem com você?" 👋
 #### - Me chamo Matheus, seja bem vindo ao meu GITHUB!
 
-- 🌱 <p align="center"><i>Atualmente estou</i> <strong>estudando</strong> <i>para me tornar um Front-End DEV!</i></p>
+<p align="center">- 🌱 <i>Atualmente estou</i> <strong>estudando</strong> <i>para me tornar um Front-End DEV!</i></p>
 - 😄 <strong>Pronouns:</strong> <i>Ele/Dele</i>
 - 📚 <i>Estou estudando:</i>
 <div align="center"><br>
