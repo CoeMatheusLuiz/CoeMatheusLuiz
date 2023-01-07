@@ -1,9 +1,9 @@
 ### "Olá, tudo bem com você?" 👋
-#### - Me chamo Matheus, seja bem vindo ao meu GITHUB!
+#### Me chamo Matheus, seja bem vindo ao meu GITHUB!
 
 <p align="center">- 🌱 <i>Atualmente estou</i> <strong>estudando</strong> <i>para me tornar um Front-End DEV!</i></p>
-- 😄 <strong>Pronouns:</strong> <i>Ele/Dele</i>
-- 📚 <i>Estou estudando:</i>
+<p align="center">- 😄 <strong>Pronouns:</strong> <i>Ele/Dele</i></p>
+<p align="center">- 📚 <i>Estou estudando:</i></p>
 <div align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
