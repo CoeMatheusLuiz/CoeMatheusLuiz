@@ -3,14 +3,6 @@
 
 - 🌱 <i>Atualmente estou</i> <strong>estudando</strong> <i>para me tornar um Front-End DEV!</i>
 - 😄 <strong>Pronouns:</strong> <i>Ele/Dele</i>
-
-<div align="center">
-  <a href="https://github.com/CoeMatheusLuiz"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoeMatheusLuiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoeMatheusLuiz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<br>
-
 - 📚 <i>Estou estudando:</i>
   
 <div style="display: inline_block"><br>
@@ -19,6 +11,13 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
+
+<div align="center">
+  <a href="https://github.com/CoeMatheusLuiz"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoeMatheusLuiz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoeMatheusLuiz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<br>
   
    ##
   
